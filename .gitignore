@@ -1,0 +1,11 @@
+
+# NPM
+/node_modules/
+/npm-debug.log
+
+# Build
+/dev/build
+/dev/.release
+
+.DS_Store
+/.idea/
